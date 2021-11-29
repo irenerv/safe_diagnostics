@@ -1,0 +1,66 @@
+{
+    "enfermedades":
+    {
+        "1":{
+            "id": 1,
+            "name": "Diabetes",
+            "info": "La diabetes es una enfermedad en la que los niveles de glucosa (azúcar) de la sangre están muy altos. La glucosa proviene de los alimentos que consume. La insulina es una hormona que ayuda a que la glucosa entre a las células para suministrarles energía. En la diabetes tipo 1, el cuerpo no produce insulina. En la diabetes tipo 2, la más común, el cuerpo no produce o no usa la insulina de manera adecuada. Sin suficiente insulina, la glucosa permanece en la sangre.",
+            "fuente": "Biblioteca Nacional de Medicina de los EE. UU."
+        },
+        "2":{
+          "id": 2,
+            "name": "Hipertiroidismo",
+            "info": "El hipertiroidismo, o tiroides hiperactiva, ocurre cuando la glándula tiroides produce más hormonas tiroideas de las que su cuerpo necesita.",
+            "fuente": "Biblioteca Nacional de Medicina de los EE. UU."
+        },
+        "3":{
+            "id": 3,
+            "name": "Hipotiroidismo",
+            "info": "El hipotiroidismo, o tiroides hipoactiva, ocurre cuando la glándula tiroides no produce suficientes hormonas tiroideas para satisfacer las necesidades del cuerpo.",
+            "fuente": "Biblioteca Nacional de Medicina de los EE. UU."
+        },
+        "4":{
+            "id": 4,
+            "name": "Enfermedad de Addison",
+            "info": "a enfermedad de Addison ocurre cuando las glándulas suprarrenales no producen suficientes hormonas. Este enfermeadad suele ser a consecuencia de un problema con el sistema inmunitario. El sistema inmunitario ataca equivocadamente sus propios tejidos y daña las glándulas suprarrenales.",
+            "fuente": "Biblioteca Nacional de Medicina de los EE. UU."
+        },
+        "5":{
+            "id": 5,
+            "name": "La enfermedad de Cushing",
+            "info": "El síndrome de Cushing es es un trastorno hormonal. Es causado por la exposición prolongada a un exceso de cortisol, una hormona producida por las glándulas adrenales.",
+            "fuente": "Biblioteca Nacional de Medicina de los EE. UU."
+        },
+        "6":{
+            "id": 6,
+            "name": "Acromegalia",
+            "info": "La acromegalia es una afección poco frecuente. Se presenta cuando la hipófisis produce demasiada hormona del crecimiento. La hipófisis es una glándula endocrina pequeña, pegada a la parte inferior del cerebro. Esta controla, produce y secreta varias hormonas, por ejemplo, la del crecimiento.",
+            "fuente": "Biblioteca Nacional de Medicina de los EE. UU."
+        },
+        "7":{
+            "id": 7,
+            "name": "Hipogonadismo masculino",
+            "info": "El hipogonadismo masculino es una afección en la cual el cuerpo no produce suficiente cantidad de la hormona que desempeña un papel clave en el crecimiento y desarrollo masculino durante la pubertad (testosterona) o en la cantidad suficiente de espermatozoides o en ambos.",
+            "fuente": "Biblioteca Nacional de Medicina de los EE. UU."
+        },
+        "8":{
+            "id": 8,
+            "name": "Hipogonadismo femenino",
+            "info": "El hipogonadismo femenino es una afección en la cual las glándulas sexuales (ovarios del cuerpo producen pocas o ninguna hormona.",
+            "fuente": "Biblioteca Nacional de Medicina de los EE. UU."
+        },
+        "9":{
+            "id": 9,
+            "name": "Síndrome del Ovario Poliquístico",
+            "info": "El síndrome del ovario poliquístico ocurre cuando los ovarios o las glándulas suprarrenales femeninas producen más hormonas masculinas de lo normal. Esto causa crecimiento de quistes (cavidades llenas de líquido) en los ovarios.",
+            "fuente": "Biblioteca Nacional de Medicina de los EE. UU."
+        },
+        "10":{
+            "id": 10,
+            "name": "Transtornos del crecimiento",
+            "info": "La glándula pituitaria produce la hormona del crecimiento que estimula el crecimiento de los huesos y otros tejidos. Los niños que tienen una deficiencia de esta hormona, o sea que no producen suficiente, pueden tener muy baja estatura. Pero las personas también pueden tener un exceso de esta hormona, o sea que producen demasiado.",
+            "fuente": "Biblioteca Nacional de Medicina de los EE. UU."
+        }
+    }
+}
+
